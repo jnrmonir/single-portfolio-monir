@@ -1,2 +1,2 @@
 # single-portfolio
-https://jnrmonir.github.io
+https://jnrmonir.github.io/single-portfolio
